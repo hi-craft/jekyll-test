@@ -1,0 +1,8 @@
+
+exclude: ['README.md']
+permalink: pretty
+baseurl: /jekyll-code-gh-pages
+collections:
+  comets:
+    output: true
+    permalink: /comets/:path/
